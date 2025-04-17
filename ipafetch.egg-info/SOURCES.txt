@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+ipafetch/__init__.py
+ipafetch/ipafetch.py
+ipafetch.egg-info/PKG-INFO
+ipafetch.egg-info/SOURCES.txt
+ipafetch.egg-info/dependency_links.txt
+ipafetch.egg-info/entry_points.txt
+ipafetch.egg-info/requires.txt
+ipafetch.egg-info/top_level.txt
