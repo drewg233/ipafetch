@@ -1,0 +1,9 @@
+Metadata-Version: 2.2
+Name: ipafetch
+Version: 0.1.0
+Summary: A tool to fetch IPA files from Apple Configurator
+Author: Your Name
+Requires-Python: >=3.6
+Dynamic: author
+Dynamic: requires-python
+Dynamic: summary
