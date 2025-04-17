@@ -5,8 +5,8 @@ class Ipafetch < Formula
   desc "Tool to fetch IPA files from Apple Configurator"
   homepage "https://github.com/drewg233/ipafetch"
   url "https://github.com/drewg233/ipafetch.git",
-      tag:      "v0.1.0",
-      revision: "HEAD" # Replace with actual git commit hash
+      revision: "813924615064914070a7e9098d1bced5e8359c16"
+  version "0.1.0"
   license "MIT"
 
   depends_on "python@3.11"
