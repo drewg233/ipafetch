@@ -7,13 +7,10 @@ A command-line tool to fetch IPA files from Apple Configurator.
 1. Clone this repository:
 ```bash
 git clone https://github.com/drewg233/ipafetch.git
-cd ipafetch
+cd ipafetch && pip install -e . && cd
 ```
 
-2. Install the package:
-```bash
-pip install -e .
-```
+Extra `cd` at the end to to get out of the folder, can call `ipafetch` after that
 
 ## Usage
 
